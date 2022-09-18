@@ -1,0 +1,4 @@
+#Sun Sep 18 15:27:06 IST 2022
+base.0=F\:\\Tejas\\Grocery App Project\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
