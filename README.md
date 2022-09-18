@@ -6,5 +6,4 @@ Virtual Internship - Android Application Development Using Kotlin
 
 A grocery android app MVVM and Room Database in Kotlin.
 
-<img align="center" alt="Coding" width="200" src="![demovideo](https://user-images.githubusercontent.com/113824832/190898528-ce8e8618-ab3f-436a-a1d5-dbc7e666095d.gif)
-">
+<img align="center" alt="Coding" width="200" src="https://user-images.githubusercontent.com/113824832/190898528-ce8e8618-ab3f-436a-a1d5-dbc7e666095d.gif">
